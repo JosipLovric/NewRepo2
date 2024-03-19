@@ -8,5 +8,7 @@ namespace PIS_2024
 {
     internal class Class1
     {
+
+        //komentar lokalni
     }
 }
