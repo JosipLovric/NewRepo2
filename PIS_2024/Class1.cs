@@ -8,5 +8,6 @@ namespace PIS_2024
 {
     internal class Class1
     {
+        //ovo je moj komentar
     }
 }
